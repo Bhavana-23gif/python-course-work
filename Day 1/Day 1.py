@@ -1,0 +1,5 @@
+print("Name: Bhavana")
+print("Course: Python Full Stack")
+print("Student Id: CGH3064")
+print("Passed Year: 2025")
+print("Branch: CSE")
